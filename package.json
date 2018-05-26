@@ -1,0 +1,38 @@
+{
+  "name": "krunker-bot-sender",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nebula-Developers/Krunker-Bot-Sender.git"
+  },
+  "keywords": [
+    "nebula",
+    "bots",
+    "mmo",
+    "io",
+    "game",
+    "bots",
+    "hacks",
+    "cheat",
+    "krunker"
+  ],
+  "author": "Nebula Developers (haykam821, Mega-Mewthree)",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Nebula-Developers/Krunker-Bot-Sender/issues"
+  },
+  "homepage": "https://github.com/Nebula-Developers/Krunker-Bot-Sender#readme",
+  "dependencies": {
+    "socket.io-client": "^2.1.1",
+    "socket.io-msgpack-parser": "^2.2.0",
+    "yargs": "^11.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^4.19.1"
+  }
+}
